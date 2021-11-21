@@ -35,10 +35,14 @@ Developing a web application dedicated to the Mission to Mars by web scraping th
 
 ## Results
 
-**1. Scraped Full-Resolution Mars Hemisphere Images and Titles**
+### Enhanced Web App
 
 ![Web App-1](/Resources/ui-1.png)
 
+### Mars Hemisphere Images and Titles
+
 ![Web App-2](/Resources/ui-2.png)
+
+### MongoDB with ingested full-size image URL and title data
 
 ![MongoDB](/Resources/Mongo-Ingestion.png)
